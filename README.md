@@ -68,7 +68,7 @@ The optimization problem solved here appears in my PhD dissertation:
 > *On the Triangle-Free Inducibility of Paths*  
 > University of Colorado Denver, 2025  
 
-(Full dissertation available here: **[link]**)
+(Full dissertation to be available soon on ProQuest)
 
 ---
 
