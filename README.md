@@ -56,8 +56,8 @@ These same ideas appear in areas such as AI systems, scheduling engines, and gam
 
 ## Files in This Repository
 
-- `model_generator.py` – Generates polynomial terms and constraints programmatically  
-- `optimization_model.py` – Builds and solves the optimization model using Gurobi
+- `model_generator.ipynb` – Generates polynomial terms and constraints programmatically  
+- `optimization_model.ipynb` – Builds and solves the optimization model using Gurobi
 
 ---
 
