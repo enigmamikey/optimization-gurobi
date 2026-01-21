@@ -8,6 +8,8 @@ The original problem arose in the final stage of my PhD research in mathematics.
 
 At a high level, the task was to prove an upper bound for a high-degree polynomial over a constrained domain by solving a nonlinear optimization problem with hundreds of constraints.
 
+This work was supported in part by funding from the U.S. National Science Foundation.
+
 ---
 
 ## The Optimization Challenge
